@@ -1,0 +1,71 @@
+body{
+    background-color: gainsboro;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid;
+    height: 70px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h2{
+    text-align: center;
+}
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.font1{
+    font-weight: bold;
+}
+.font2{
+    text-decoration: underline dotted black;
+}
+.font3{
+    color: red;
+    background-color: cadetblue;
+}
+h3{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px ;
+    border-top: 1px solid;
+    padding-top: 20px;
+}
+.font4{
+    font-style: italic;
+}
+div{
+    background-color: lavender;
+    width: 500px; 
+    height: 200px;
+    color: red;
+    padding-left: 5%;
+       
+    
+} 
+.font5{
+    color: black;
+}
+.font6{
+    padding-left: 6%;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.font7{
+    padding-left: 12%;
+}
+footer{
+    border-top: 1px solid;
+    margin: 2% 5% 0% 5%;
+}
+h4>span{
+    color: darkturquoise;
+    background-color: cadetblue;
+    font-weight: lighter;
+}
+pre>span{
+    color: black;
+}
